@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Broadcast Receiver</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="info">This activity registers to MyBroadcastReceiver. Click the BROADCAST button in the action bar to start an intentservice which will send a broadcast that will be received by this activity.</string>
+	<string name="item_broadcast">Broadcast</string>
+</resources>
